@@ -1,3 +1,7 @@
+Gh pages:
+https://bianpeter.github.io/web_test2/web_test2/build/
+
+
 # web_test2
 
 Installed
